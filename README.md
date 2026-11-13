@@ -72,7 +72,15 @@ flutter run -d chrome --web-port=51470
 
 ## 📱 Tampilan Aplikasi
 
-![Tampilan Air Quality App](dokumentasi/tampilan-aplikasi.png)
+### 1. Tampilan Awal
+
+![Tampilan Awal](dokumentasi/tampilan-aplikasi.png)
+
+### 2. Hasil Pencarian Kualitas Udara
+
+![Hasil Pencarian](dokumentasi/tampilan-aplikasi1.png)
+
+
 ## 🌐 API Sources
 
 This application uses the following Open-Meteo APIs:
