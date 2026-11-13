@@ -70,15 +70,16 @@ Run the following command in the terminal:
 flutter run -d chrome --web-port=51470
 ```
 
+
 ## 📱 Tampilan Aplikasi
 
 ### 1. Tampilan Awal
 
-![Tampilan Awal](dokumentasi/tampilan-aplikasi.png)
+![Tampilan Awal](tampilan-aplikasi.png)
 
 ### 2. Hasil Pencarian Kualitas Udara
 
-![Hasil Pencarian](dokumentasi/tampilan-aplikasi1.png)
+![Hasil Pencarian](tampilan-aplikasi1.png)
 
 
 ## 🌐 API Sources
