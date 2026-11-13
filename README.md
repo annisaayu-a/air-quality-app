@@ -70,6 +70,9 @@ Run the following command in the terminal:
 flutter run -d chrome --web-port=51470
 ```
 
+## 📱 Tampilan Aplikasi
+
+![Tampilan Air Quality App](dokumentasi/tampilan-aplikasi.png)
 ## 🌐 API Sources
 
 This application uses the following Open-Meteo APIs:
